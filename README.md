@@ -47,10 +47,5 @@ Focus-Guard is a premium Flutter-based productivity application designed to help
 > [!IMPORTANT]
 > This app requires **Overlay Permission** and **Usage Access** to detect and block apps effectively. The app will guide you through granting these permissions on the first launch.
 
-## 🎨 Screenshots
-
-*(Coming soon... Use your `generate_image` tool if you'd like me to mock up some UI graphics for you!)*
-
 ---
 
-Developed with ❤️ using **Antigravity AI**.
